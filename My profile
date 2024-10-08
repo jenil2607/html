@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title> MY INFO </title>
+    </head>
+    <body>
+        <header><h1><u><center>Jenil tanti</center></u></h1></header>
+        <main>
+            <saction>
+               <a href="suscribe.html"> Click hear to suscribe to my profile.</a>
+                <article>
+                    <header><h2>Web developer</h2></header>  
+                      <p><ul><li>
+                        "Jenil is a talented developer known for his creativity and problem-solving skills. With a keen eye for detail and a passion for technology, he excels at building innovative solutions that drive results. Jenil combines technical expertise with a positive attitude, making him a valuable team player and an inspiring leader. His dedication to continuous learning and improvement ensures that he's always at the forefront of the latest trends and tools in the development world. Whether he's debugging code or brainstorming new ideas, Jenil's commitment and enthusiasm make him stand out."
+                    </li> </ul></p>
+                      <img src="image\20512.jpg" width="30%">
+                      <h2> <i>Qualifications</i></h2>
+                       <table border="2px">
+                             <thead>
+                                <tr>
+                                    <th>Study</th>
+                                    <th>Year</th>
+                                    <th>Parsantage</th>
+                                </tr>
+                                <tbody>
+                                   <tr>
+                                    <td>1oth</td>
+                                    <td>2018</td>
+                                    <td>70%</td>
+                                   </tr>
+                                
+                                </tbody>
+                                <tbody>
+                                    <tr>
+                                     <td>12th</td>
+                                     <td>2020</td>
+                                     <td>80%</td>
+                                    </tr>
+                                 
+                                 </tbody>
+                                 <tbody>
+                                    <tr>
+                                     <td>bachler</td>
+                                     <td>2024</td>
+                                     <td>A Graed</td>
+                                    </tr>
+                                 
+                                 </tbody>
+                             </thead>
+
+                       </table>
+                       <p>
+                        Languages
+                       </p>
+                
+                <h4>by: Jenil</h4>
+                </article>
+            </saction>
+        </main>
+
+    </body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Job description</title>
+        </head>
+        <body>
+            <header><h1><u><center>GOOGLE</center></u></h1></header>
+            <header><h2>Web developer</h2></header>
+            <p><ul><li>
+                We are seeking a skilled Python Developer responsible for developing and maintaining applications. The ideal candidate should have experience working on complex projects, be well-versed in backend development, and have a passion for technology.
+            </li> </ul></p>
+            <header><h2>technical skills</h2></header>
+            <p><ul><li>Proficiency in Python (3+ years of experience).</li></ul></p>
+            <ul><li>Experience with web frameworks (e.g., Django, Flask, FastAPI).</li></ul>
+            <ul><li>Strong understanding of object-oriented programming and design patterns.</li></ul>
+            <ul><li>Familiarity with relational databases (e.g., PostgreSQL, MySQL) and ORMs (e.g., SQLAlchemy, Django ORM).</li></ul>
+            <ul><li>Familiarity with version control systems (Git).</li></ul>
+            <ul><li>Understanding of CI/CD pipelines.</li></ul>
+            <ul><li>Experience with testing frameworks (e.g., PyTest, UnitTest).</li></ul>
+
+            <form>
+                
+                <main>
+                    <saction>
+                        <fieldset><legend><b>Personal details:</b></legend>
+                            <table>
+                               
+                                 <tr>
+                                     <td><label for="Fname">First name: </lable></td>
+                                     <td> <input typt="text" id="Fname" placeholder="type your Fname"></td>
+                                 </tr>
+                                <tr>
+                                    <td><label for="Lname">Last name:</label></td>
+                                    <td> <input type="text" id="Lname" placeholder="type ypur Lname"></td>
+
+                                </tr> 
+                                <tr>
+                                    <td><label for="add">Address: </label></label> </td>
+                                    <td><input type="text" placeholder="Address"></td>
+                                    
+                                   
+                                </tr>
+                                <tr></tr>
+                                    <td><label for="email">Enter gmail: </label></label> </td>
+                                    <td><input type="text" placeholder="type gmail"></td>
+                                    
+                                   
+                                </tr>
+                            </table>
+                            
+                        </fieldset>
+                        <hr>
+
+                        <fieldset><legend><b>Qualifications</b></legend>
+                            
+                            <label for="fname"> 10th: </label>
+                            <input type="checkbox" name="">
+                            <label for=""> yes </label>
+                            <input type="checkbox" name="">
+                            <label for=""> no </label>
+                            <br>
+                            <label for="fname"> 12th: </label>
+                            <input type="checkbox" name="">
+                            <label for=""> yes </label>
+                            <input type="checkbox" name="">
+                            <label for=""> no </label>
+                            <br>
+                            <label for="fname"> graduate: </label>
+                            <input type="checkbox" name="">
+                            <label for=""> yes </label>
+                            <input type="checkbox" name="">
+                            <label for=""> no </label>
+
+                        </fieldset>
+                        
+                        <fieldset>  
+
+                            <legend><b>Requirements</b></legend>
+                            <h4>choose an below option to Click buttons </h4>
+                            
+                            <table>
+                                <thead>
+                                <tr>
+                                    <td><input type="checkbox" name="" id="email-update"></td>
+                                    <td><label for="email-update">full stack in python</label></td>
+                                </tr>
+                                </thead>
+                                <tr>
+                                    <td><input type="checkbox" name="" id="email-update"></td>
+                                    <td><label for="email-update">front-end</label></td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" name="" id="email-update"></td>
+                                    <td><label for="email-update">back-end</label></td>
+                                   
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" name="" id="email-update"></td>
+                                    <td><label for="email-update">database</label></td>
+                                </tr>
+                            </table>
+
+                        </fieldset>
+                
+                    </saction>
+                </main>
+            </form>
+            <br>
+            <input type="button" value="submit">
+
+        </body>
+        </html>
